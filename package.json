@@ -1,5 +1,5 @@
 {
-  "name": "web3.0_typescript_project08_quiz_game",
+  "name": "inquirer_quiz_game_08_zm",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +11,19 @@
     "type": "git",
     "url": "git+https://github.com/muhammadzubairmoosani/web3.0_typeScript_project08_quiz_game.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "Typescript",
+    "Quiz Game",
+    "Inquirer",
+    "Command Line",
+    "Education",
+    "Learning",
+    "Interactive",
+    "Fun"    
+  ],
+  "author": "zubair moosani",
   "license": "ISC",
+  "bin":"./index.js",
   "bugs": {
     "url": "https://github.com/muhammadzubairmoosani/web3.0_typeScript_project08_quiz_game/issues"
   },
